@@ -25,3 +25,5 @@ require (
 	gopkg.in/src-d/go-git.v4 v4.13.1
 	k8s.io/klog/v2 v2.80.1
 )
+
+replace github.com/google/go-licenses => github.com/jaxesn/go-licenses  v0.0.0-20230104164746-b336f763a6f6
