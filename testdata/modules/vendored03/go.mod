@@ -1,4 +1,4 @@
-module github.com/google/go-licenses/testdata/modules/vendored03
+module github.com/jaxesn/go-licenses/testdata/modules/vendored03
 
 go 1.15
 
